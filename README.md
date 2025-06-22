@@ -10,3 +10,11 @@
 - Node
 
 - Express
+
+---
+
+## Folder Structure
+
+- Backend
+
+- Frontend
