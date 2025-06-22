@@ -17,4 +17,8 @@
 
 - Backend
 
+ - Server
+
 - Frontend
+
+ - Client
