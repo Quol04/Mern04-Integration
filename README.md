@@ -1,6 +1,7 @@
 # Mern Integration
 
 ---
+
 ## Tech Stack
 
 - MongoDB
@@ -17,8 +18,8 @@
 
 - Backend
 
- - Server
+  - Server
 
 - Frontend
 
- - Client
+  - Client
