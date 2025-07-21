@@ -1,4 +1,4 @@
-# Mern Integration
+# MERN Integration
 
 ---
 
